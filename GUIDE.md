@@ -8,6 +8,10 @@
 6. `touch webpack.config.js`
 7. `touch .gitignore`
 
+React
+8. `npm install --save react react-dom` app dependency, not dev dependency
+9. `npm install --save react-router` used if you have more than one page
+
 
 
 ## Babel
@@ -22,3 +26,5 @@
   - hot reloading
   - minification
   - ES6 Templates
+
+## React
