@@ -11,7 +11,7 @@
 React
 8. `npm install --save react react-dom` app dependency, not dev dependency
 9. `npm install --save react-router` used if you have more than one page
-
+10. `touch src/app.js`
 
 
 ## Babel
